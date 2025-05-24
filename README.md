@@ -48,13 +48,11 @@ npm install
 ### 3️⃣ Run the Application
 🔹 Start Backend
 ```bash
-Copy code
 cd backend
 npm server.js
 ```
 🔹 Start Frontend
 ```bash
-Copy code
 cd frontend
 npm run dev
 ```
